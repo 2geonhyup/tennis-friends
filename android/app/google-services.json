@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1033593521371",
+    "project_id": "tennis-friends-0-2344a",
+    "storage_bucket": "tennis-friends-0-2344a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033593521371:android:0bf7fe007cc25eced338fe",
+        "android_client_info": {
+          "package_name": "com.isdev10.tennis_friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033593521371-egsfkr577ej8d5fhsn8s3jhpmi2ehn3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isdev10.tennis_friends",
+            "certificate_hash": "a3d94ffbb1b7de9be536cfda69ff5ce481ccea08"
+          }
+        },
+        {
+          "client_id": "1033593521371-i8q1sktqsm804u7ktfb95h1fe9ij1n6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isdev10.tennis_friends",
+            "certificate_hash": "b14441a4f08759d86f5ce85f85be989117eecb9a"
+          }
+        },
+        {
+          "client_id": "1033593521371-is6p71t8j2l8i330tbik5sauqip38fvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isdev10.tennis_friends",
+            "certificate_hash": "33a0f9eecc1080e33167b2bde56d0dcdad7dacb2"
+          }
+        },
+        {
+          "client_id": "1033593521371-fg0hctpad2al8d4209ntrff02v83n704.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDirEeTSq5DwyhCxqcgJXFnYwB-OISVkOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033593521371-fg0hctpad2al8d4209ntrff02v83n704.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
