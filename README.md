@@ -1,7 +1,10 @@
 # tennis_friends_demo
 
+
 A new Flutter project.
 위치기반 테니스 모임 매칭앱
+
+실행화면: https://ink-ravioli-c8f.notion.site/a61bf325f238425486a5d64d0d077177
 
 기능
 1. 회원가입
@@ -59,3 +62,4 @@ A new Flutter project.
 1. 게시물 검색
 2. 게시물 필터링
 3. 조건부 랜덤매칭?
+
