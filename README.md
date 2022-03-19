@@ -8,9 +8,6 @@ A new Flutter project.
 ### 디자인
 https://www.figma.com/file/29y2Nhv1OpguyNfc4kJIdj/tennis-friends?node-id=0%3A1
 
-### 실행화면
-https://ink-ravioli-c8f.notion.site/a61bf325f238425486a5d64d0d077177
-
 기능
 1. 회원가입
     - 기본적인 프로필 세팅 (나이, 성별, 구력, 닉네임)
